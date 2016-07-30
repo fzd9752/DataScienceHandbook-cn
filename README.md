@@ -1,2 +1,9 @@
-# DataScienceHandbook-cn
-Data Science Handbook 中文试翻
+# 数据科学手册：来自25位顶尖数据科学家的建议和见解-中文试翻
+> The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists
+[免费下载](https://gumroad.com/datasciencehandbook)
+-
+
+```
+翻译仅作为个人学习用途，版权归原作者所有。如有冒犯您的利益，请联系我，我会尽快删除。
+All the copyright belong to the authors of this book. If this translation would offend your legal benefits, please contact me, I will remove it.
+```
