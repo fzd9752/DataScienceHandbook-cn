@@ -1,9 +1,12 @@
 ## 目录
-<br>
+
+-
 
 * [前言 *Jake Klamka*](forward.md)
 * [介绍](introdcution.md)
-<br>
+
+--
+
 * [DJ Patil]()
 * [Hilary Mason]()
 * [Pete Skomoroch]()
@@ -29,5 +32,7 @@
 * [Sean Gourley]()
 * [Jonathan Goldmam]()
 * [William Chen]()
-<br>
+
+--
+
 * [作者简介](authors.md)

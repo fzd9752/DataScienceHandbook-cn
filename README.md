@@ -7,6 +7,7 @@
 * [目录](Index.md)
 * [前言 *Jake Klamka*](forward.md)
 * [介绍](introdcution.md)
+
 --
 
 * [DJ Patil]()
@@ -34,6 +35,7 @@
 * [Sean Gourley]()
 * [Jonathan Goldmam]()
 * [William Chen]()
+
 --
 
 * [作者简介](authors.md)
