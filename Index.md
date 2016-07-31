@@ -1,11 +1,9 @@
 ## 目录
 
--
-
 * [前言 *Jake Klamka*](forward.md)
 * [介绍](introdcution.md)
 
---
+-
 
 * [DJ Patil]()
 * [Hilary Mason]()
@@ -33,6 +31,6 @@
 * [Jonathan Goldmam]()
 * [William Chen]()
 
---
+-
 
 * [作者简介](authors.md)

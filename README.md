@@ -4,6 +4,12 @@
 
 ---
 
+:heavy_check_mark: 翻译完成章节
+:on: 正在翻译
+:soon: 将要翻译
+
+---
+
 * [目录](Index.md)
 * [前言 *Jake Klamka*](forward.md)
 * [介绍](introdcution.md)
